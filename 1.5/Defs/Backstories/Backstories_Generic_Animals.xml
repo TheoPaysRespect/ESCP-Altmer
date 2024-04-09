@@ -5,7 +5,7 @@
 		<defName>ESCP_AltmerBackstory_Adulthood_AnimalsA</defName>
 		<title>canah breeder</title>
 		<titleShort>breeder</titleShort>
-		<baseDesc>While most Altmer skilled with animals set their eyes on taming a gryphon, [PAWN_nameDef] decided to go for something a little smaller, and far less dangerous. [PAWN_pronoun] quickly became rather skilled at breeding canah, a colourful bird native to the Summerset Isles. [PAWN_nameDef] made quite a decent amount of coin breeding canah for nobles, who all seemed to want an aviary full of them.</baseDesc>
+		<description>While most Altmer skilled with animals set their eyes on taming a gryphon, [PAWN_nameDef] decided to go for something a little smaller, and far less dangerous. [PAWN_pronoun] quickly became rather skilled at breeding canah, a colourful bird native to the Summerset Isles. [PAWN_nameDef] made quite a decent amount of coin breeding canah for nobles, who all seemed to want an aviary full of them.</description>
 		<bodyTypeGlobal>Thin</bodyTypeGlobal>
 		<skillGains>
 			<Animals>4</Animals>
@@ -16,7 +16,7 @@
 		<defName>ESCP_AltmerBackstory_Adulthood_AnimalsB</defName>
 		<title>gryphon handler</title>
 		<titleShort>handler</titleShort>
-		<baseDesc>While not personally bonded to any gryphons, [PAWN_nameDef] did help care for them. Not a particularly easy job, as a young gryphon is likely to bite off fingers, while an adult gryphon will instead bite off the whole arm.</baseDesc>
+		<description>While not personally bonded to any gryphons, [PAWN_nameDef] did help care for them. Not a particularly easy job, as a young gryphon is likely to bite off fingers, while an adult gryphon will instead bite off the whole arm.</description>
 		<bodyTypeMale>Male</bodyTypeMale>
 		<bodyTypeFemale>Female</bodyTypeFemale>
 		<skillGains>
@@ -30,7 +30,7 @@
 		<defName>ESCP_AltmerBackstory_Adulthood_AnimalsC</defName>
 		<title>indrik tamer</title>
 		<titleShort>tamer</titleShort>
-		<baseDesc>Not content with bonding with a gryphon, [PAWN_nameDef] instead set [PAWN_possessive] eyes on something else, the indrik. While highly skilled with animals, [PAWN_nameDef] would still have to find a wild indrik first, which proved nigh impossible.</baseDesc>
+		<description>Not content with bonding with a gryphon, [PAWN_nameDef] instead set [PAWN_possessive] eyes on something else, the indrik. While highly skilled with animals, [PAWN_nameDef] would still have to find a wild indrik first, which proved nigh impossible.</description>
 		<bodyTypeMale>Male</bodyTypeMale>
 		<bodyTypeFemale>Female</bodyTypeFemale>
 		<skillGains>
