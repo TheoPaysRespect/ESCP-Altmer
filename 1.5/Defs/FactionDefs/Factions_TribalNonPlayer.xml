@@ -42,8 +42,7 @@
 		</structureMemeWeights>
 		<requiredMemes/>
 		<caravanTraderKinds>
-			<li MayRequire="OskarPotocki.VanillaFactionsExpanded.MedievalModule">VFEM_Caravan_Medieval_WineMerchant</li>
-			<li MayRequire="OskarPotocki.VanillaFactionsExpanded.MedievalModule">VFEM_Caravan_Medieval_ArtPatron</li>
+			<li MayRequire="dankpyon.medieval.overhaul">DankPyon_Caravan_Medieval_ArtPatron</li>
 		</caravanTraderKinds>
 		<pawnGroupMakers>
 			<li>
